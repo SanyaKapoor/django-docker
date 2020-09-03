@@ -5,3 +5,5 @@
 > docker run -d -p 8001:8000 dockerdjango:1
 >
 > localhost:8001 on browser
+
+*Image has been pushed to dockerhub too (lordrevolta/dockerdjango)*
